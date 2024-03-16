@@ -1,7 +1,7 @@
 {
 	"facebookAccount": {
-		"email": "y0sjyw@txcct.com",
-		"password": "151727",
+		"email": "",
+		"password": "",
 		"2FASecret": "",
 		"i_user": "",
 		"proxy": null,
@@ -22,8 +22,8 @@
 		"whiteListIds": [],
 		"notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
 	},
-	"nickNameBot": "zermanto | v1.0",
-	"prefix": "/",
+	"nickNameBot": "",
+	"prefix": "!",
 	"database": {
 		"type": "json",
 		"uriMongodb": "",
