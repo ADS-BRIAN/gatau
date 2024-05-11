@@ -1,7 +1,7 @@
 {
 	"facebookAccount": {
-		"email": "masternaufal968@gmail.com",
-		"password": "zerchiko10877",
+		"email": "",
+		"password": "",
 		"2FASecret": "",
 		"i_user": "",
 		"proxy": null,
@@ -16,7 +16,9 @@
 		"enable": false,
 		"ignoreCommand": []
 	},
-	"adminBot": ["100078690213463"],
+	"adminBot": [
+		 ""//here is your id
+	],
 	"whiteListMode": {
 		"enable": false,
 		"whiteListIds": [],
